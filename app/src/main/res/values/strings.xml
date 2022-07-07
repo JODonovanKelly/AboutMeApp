@@ -16,4 +16,6 @@
         There is an extensive single-player campaign as well as online multiplayer functionality
         with different game modes, add-ons, custom maps, mods, and scenarios.
     </string>
+    <string name="What_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
 </resources>
